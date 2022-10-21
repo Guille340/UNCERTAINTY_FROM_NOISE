@@ -1,0 +1,21 @@
+Guide for Uncertainty in Measurements (GUM)- https://www.bipm.org/en/publications/guides
+                                             https://www.iso.org/sites/JCGM/JCGM-introduction.htm
+
+Std Deviation Vs Std Error - https://www.statology.org/standard-deviation-vs-standard-error/
+                             JCGM_100_2008_E.pdf, B.2.17 (page 48)
+
+Confidence Interval - https://www.scribbr.com/statistics/confidence-interval/
+		      https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
+                      https://www.mathsisfun.com/data/confidence-interval.html
+		      https://www.wikihow.com/Calculate-Confidence-Interval
+		      https://en.wikipedia.org/wiki/Confidence_interval
+
+Normal Distribution - https://en.wikipedia.org/wiki/Normal_distribution
+
+Error Function - https://en.wikipedia.org/wiki/Error_function
+
+Z-Scores - https://www.ztable.net/normal-distribution/
+
+Level Uncertainty - Taraldsen, G., Berge, T., Haukland, F., Lindqvist, B.H.,
+                    and Jonasson, H. (2015). "Uncertainty of decibel levels",
+                    JASA Express Letters, 138(3), 254-269.
